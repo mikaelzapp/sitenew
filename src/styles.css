@@ -1,0 +1,7 @@
+/* styles.css */
+.custom-rgb-badge {
+    background-color: rgb(255, 99, 71); /* Cor RGB (tom de laranja) */
+    color: white; /* Cor do texto */
+    padding: 0.25em 0.5em; /* Ajuste o padding conforme necessário */
+    border-radius: 0.25rem; /* Bordas arredondadas */
+  }
